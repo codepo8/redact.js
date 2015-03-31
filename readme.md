@@ -39,6 +39,14 @@ These numbers don't lie! Do yourself a favour and use Redact.js now!
 
 # Redact.js is open source and on GitHub
 
+<ul>
+  <li>It is opinionated and uses gulp</li>
+  <li>It is maintained by a single developer and not designed by committee</li>
+  <li>It uses modern JavaScript and doesn't work in OldIE</li>
+  <li>It is only 83 bytes big minified!</li>
+  <li>It works cross-browser and could work with Phantom.js or other DOM renderers</li>
+</ul>
+
 The best thing? Redact.js is free an open source and on GitHub. Licensed under GNU.
 
 
