@@ -11,6 +11,8 @@ Luckily enough, JavaScript and modern development tooling and practices give us 
 
 Redact.js is an opionated micro-framework that rocket-boosts your apps. Simply by including it on the bottom of your HTML solutions (or use Jade, like real developers do) you can save hundreds of milliseconds and avoid any jank or dropped frames. 
 
+Simply by avoiding the rendering of the HTML, you can achieve incredible performance benefits that are measureable in our developer tools.
+
 **Redact.js is a fool-proof way to achieve buttery-smooth 60 FPS! It works 90% of the time all the time!**  
 
 ```html
@@ -36,7 +38,9 @@ As you can see, in the same amount of time heavy user interaction on the Redact.
 
 These numbers don't lie! Do yourself a favour and use Redact.js now! 
 
+# Redact.js is open source and on GitHub
 
+The best thing? Redact.js is free an open source and on GitHub. Licensed under GNU.
 
 
 
