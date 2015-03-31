@@ -9,6 +9,7 @@ Luckily enough, JavaScript and modern development tooling and practices give us 
 
 Redact.js is an opionated micro-framework that rocket-boosts your apps. Simply by including the 
 
+```html
 <!doctype html>
 <html lang="en">
 <head>…</head>
@@ -17,6 +18,7 @@ Redact.js is an opionated micro-framework that rocket-boosts your apps. Simply b
 <script src="redact.min.js"></script>
 </body>
 </html>
+```
 
 | With Redact.js| Without Redact.js|
 | ------------- |:-------------:| -----:|
