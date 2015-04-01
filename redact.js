@@ -1,3 +1,1 @@
-window.addEventListener('DOMContentLoaded', function(ev){
-	document.body.innerHTML = '';
-});
+window.addEventListener('DOMContentLoaded',function(ev){document.body.innerHTML='';});
